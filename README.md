@@ -34,7 +34,7 @@
     src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
   />
 </a>
-<a href="https://www.instagram.com/vishaldhiman3199/">
+<a href="https://www.instagram.com/vishaldhiman1903/">
   <img
     alt="Instagram"
     src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
