@@ -54,8 +54,9 @@
 </a>
 
 ------
-<img src="https://github-readme-stats.vercel.app/api?username=vishudhiman&show_icons=true&theme=radical&count_private=true"/>
+
+![vishudhiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishudhiman&show_icons=true&theme=radical)
 
 <img src = 'https://komarev.com/ghpvc/?username=vishudhiman&color=green'/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishudhiman&layout=compact"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
