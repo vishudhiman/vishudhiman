@@ -34,9 +34,6 @@ My insatiable curiosity drives me to embrace challenges that push me to explore 
 <a href="https://mobile.twitter.com/VishuD1900">
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
 </a>
-<a href="https://www.instagram.com/vishaldhiman1903/">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-</a>
 <a href="https://www.linkedin.com/in/vishal-dhiman-6b600b196">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
